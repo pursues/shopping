@@ -1,1 +1,2 @@
-# vue_shopping
+# vue
+Some simple shopping components
